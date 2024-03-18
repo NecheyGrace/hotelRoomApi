@@ -1,0 +1,17 @@
+{
+  "name": "hotelroomapi",
+  "version": "1.0.0",
+  "description": "This project provides a backend API for a hotel management system built with Node.js, Express.js, and vanilla JavaScript. It offers functionalities to manage room types and rooms, including creating, retrieving, filtering, updating, and deleting them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2"
+  }
+}
